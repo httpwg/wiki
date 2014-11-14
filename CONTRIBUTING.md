@@ -1,39 +1,3 @@
-# Contributing to HTTP/2
-
-Before submitting feedback, please familiarize yourself with our current issues
-list and review the [HTTP/2 page](http://http2.github.io/) and the [working
-group home page](http://trac.tools.ietf.org/wg/httpbis/trac/wiki). If you're
-new to this, you may also want to read the [Tao of the
-IETF](http://www.ietf.org/tao.html).
-
-Be aware that all contributions to the specification fall under the "NOTE WELL"
-terms outlined below.
-
-1. The best way to provide feedback (editorial or design) and ask questions is
-sending an e-mail to [our mailing
-list](http://lists.w3.org/Archives/Public/ietf-http-wg/). This will assure that
-the entire Working Group sees your input in a timely fashion.
-
-2. If you have **editorial** suggestions (i.e., those that do not change the
-meaning of the specification), you can either:
-
-  a) Fork this repository and submit a pull request; this is the lowest
-  friction way to get editorial changes in.
-  
-  b) Submit a new issue to Github, and mention that you believe it is editorial
-  in the issue body. It is not necessary to notify the mailing list for
-  editorial issues.
-  
-  c) Make comments on individual commits in Github. Note that this feedback is
-  processed only with best effort by the editors, so it should only be used for
-  quick editorial suggestions or questions.
-
-3. For non-editorial (i.e., **design**) issues, you can also create an issue on
-Github. However, you **must notify the mailing list** when creating such issues,
-providing a link to the issue in the message body.
-
-  Note that **github issues are not for substantial discussions**; the only
-  appropriate place to discuss design issues is on the mailing list itself.
 
 # NOTE WELL
 
